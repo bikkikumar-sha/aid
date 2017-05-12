@@ -1,6 +1,6 @@
 # aid
 aDVANCED iNTERACTIVE dICTIONARY
-This program si used to generate custom word-list by accepting the details of the victim.
+This program is used to generate custom word-list by accepting the details of the victim.
 Enter the victims details and the program will generate the custom wordlist that can be used to brute force against a single victim.
 The output can be tuned according to the requirement.
 
@@ -19,6 +19,6 @@ Log version 1.0
   no uppercase varient in the wordlist
   no 'write to output file feature'
 3.known bugs
-  program crashes on invalid output
+  program crashes on invalid input
 
 
