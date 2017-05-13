@@ -7,13 +7,13 @@ The output can be tuned according to the requirement.
 
 Log version 2.0 (final)
 1. added write to file feature
-2. more passwords combinations addded
+2. more passwords combinations added
 3. added uppercase and symbol support
 4. fixed known bugs
 5. included bonus:
     popular indian first names
     popular indian last names
-
+    10k most popular password list 
 
 Log version 1.0
 1.included support for:
