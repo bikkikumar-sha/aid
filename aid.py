@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#version 2.0 (final)
+#author bikki kumar sha
 import os
 print("------------------------ADVANCED  INTERACTIVE  DICTIONARY----------------------\n")
 print("                                                             by:BIKKI KUMAR SHA         \n\n")
@@ -11,9 +13,9 @@ print("WELCOME!! THIS TOOL IS USED TO GENERATE A CUSTOM DICTIONARY BASED ON USER
 #            A:::::A                 I::::::::I     D:::::::::::::::DD   
 #           A:::::::A                II::::::II     DDD:::::DDDDD:::::D     
 #          A:::::::::A                 I::::I         D:::::D    D:::::D    
-#	      A:::::A:::::A                I::::I         D:::::D     D:::::D  
-#	     A:::::A A:::::A               I::::I         D:::::D     D:::::D   
-#	    A:::::A   A:::::A              I::::I         D:::::D     D:::::D  
+#	  A:::::A:::::A                I::::I         D:::::D     D:::::D  
+#	 A:::::A A:::::A               I::::I         D:::::D     D:::::D   
+#	A:::::A   A:::::A              I::::I         D:::::D     D:::::D  
 #      A:::::A     A:::::A             I::::I         D:::::D     D:::::D  
 #     A:::::AAAAAAAAA:::::A            I::::I         D:::::D     D:::::D  
 #    A:::::::::::::::::::::A           I::::I         D:::::D     D:::::D   
