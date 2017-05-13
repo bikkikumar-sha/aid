@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#aid author- bikki kumar sha
 #version 1.0
 print ("WELCOME TO AID, YOUR CUSTOM WORDLIST GENERATOR !!!")
 d1 = input("Enter the first name: ")
