@@ -5,6 +5,13 @@ This program is used to generate custom word-list by accepting the details of th
 Enter the victims details and the program will generate the custom wordlist that can be used to brute force against a single victim.
 The output can be tuned according to the requirement.
 
+Log version 2.0 (final)
+1. added write to file feature
+2. more passwords combinations addded
+3. added uppercase and symbol support
+4. fixed known bugs
+
+
 Log version 1.0
 1.included support for:
   firstname
@@ -21,5 +28,7 @@ Log version 1.0
   no 'write to output file feature'
 3.known bugs
   program crashes on invalid input
+  
+
 
 
