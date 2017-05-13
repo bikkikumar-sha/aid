@@ -16,21 +16,21 @@ Log version 2.0 (final)
     10k most popular password list 
 
 Log version 1.0
-1.included support for:
-  firstname
-  lastname
-  nickname
-  dateofbirth
-  anyspecialdate
-  company/organization name
-  partnername
-  petname
-2.limitations:
-  no symbol support
-  no uppercase varient in the wordlist
-  no 'write to output file feature'
-3.known bugs
-  program crashes on invalid input
+1. included support for:
+a. firstname
+b. lastname
+c. nickname
+d. dateofbirth
+e. anyspecialdate
+f. company/organization name
+g. partnername
+h. petname
+2. limitations:
+a. no symbol support
+b. no uppercase varient in the wordlist
+c. no 'write to output file feature'
+3. known bugs
+a.program crashes on invalid input
   
 
 
