@@ -10,6 +10,9 @@ Log version 2.0 (final)
 2. more passwords combinations addded
 3. added uppercase and symbol support
 4. fixed known bugs
+5. included bonus:
+    popular indian first names
+    popular indian last names
 
 
 Log version 1.0
