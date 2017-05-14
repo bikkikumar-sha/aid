@@ -5,7 +5,11 @@ This program is used to generate custom word-list by accepting the details of th
 Enter the victims details and the program will generate the custom wordlist that can be used to brute force against a single victim.
 The output can be tuned according to the requirement.
 
-Log version 2.0 (final)
+Log version 3.0 (fianl)
+1. added months in words support
+2. added fixes
+
+Log version 2.0 
 1. added write to file feature
 2. more passwords combinations added
 3. added uppercase and symbol support
@@ -14,6 +18,7 @@ Log version 2.0 (final)
     popular indian first names
     popular indian last names
     10k most popular password list 
+6. added additional keys support
 
 Log version 1.0
 included support for:
