@@ -13,9 +13,9 @@ print("WELCOME!! THIS TOOL IS USED TO GENERATE A CUSTOM DICTIONARY BASED ON USER
 #            A:::::A                 I::::::::I     D:::::::::::::::DD   
 #           A:::::::A                II::::::II     DDD:::::DDDDD:::::D     
 #          A:::::::::A                 I::::I         D:::::D    D:::::D    
-#	      A:::::A:::::A                I::::I         D:::::D     D:::::D  
-#	     A:::::A A:::::A               I::::I         D:::::D     D:::::D   
-#	    A:::::A   A:::::A              I::::I         D:::::D     D:::::D  
+#         A:::::A:::::A                I::::I         D:::::D     D:::::D  
+#        A:::::A A:::::A               I::::I         D:::::D     D:::::D   
+#       A:::::A   A:::::A              I::::I         D:::::D     D:::::D  
 #      A:::::A     A:::::A             I::::I         D:::::D     D:::::D  
 #     A:::::AAAAAAAAA:::::A            I::::I         D:::::D     D:::::D  
 #    A:::::::::::::::::::::A           I::::I         D:::::D     D:::::D   
@@ -30,7 +30,7 @@ print("WELCOME!! THIS TOOL IS USED TO GENERATE A CUSTOM DICTIONARY BASED ON USER
 #             |______| | '_ \| | |/ / |/ / |  | | / / |__ < 
 #                      | |_) | |   <|   <| |  | |/ /_ ___) |
 #                      |_.__/|_|_|\_\_|\_\_|  |_|____|____/   ---bikki kumar sha
-#															bikkikumarsha@gmail.com			
+#							      bikkikumarsha@gmail.com			
 #----------------------------------------------------------------------------------
                                              
 
