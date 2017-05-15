@@ -9,7 +9,7 @@ The output can be tuned according to the requirement.
 -DISCLAMER
 _this sofware is under open source licence. 
 _i am not liable for loss of data or property as a result of using this product.
-_for educational purpose only
+_for educational purpose only.
 
 Log version 3.0 (fianl)
 1. added months in words support
